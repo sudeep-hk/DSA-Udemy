@@ -1,0 +1,5 @@
+fifo 
+dequeue- remove from first
+enqueue-add in last
+peek- top
+

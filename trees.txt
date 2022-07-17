@@ -1,0 +1,11 @@
+non linear ds
+follow hierarchiel str
+node
+root
+parent
+child
+leaf nodes
+siblings
+edge
+levels
+path
